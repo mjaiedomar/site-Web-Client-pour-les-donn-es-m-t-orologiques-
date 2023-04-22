@@ -1,0 +1,56 @@
+.decor{
+    text-align: center;
+    color: red;
+}
+body{
+   
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-position: 50%;
+    background-size: 130%;
+    
+  }
+  .wrapper{
+    width: 900px;
+    background: rgb(234, 245, 252);
+    border-radius: 7px;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+    margin: 80px 85px 90px;
+   
+  }
+  .table{
+    border-collapse: collapse;
+    border-spacing: 1px;
+        
+  }
+  th, td{
+    padding: 10px 20px;
+    border-bottom: 2px solid rgb(44, 127, 227);
+    
+    
+   }
+   th {
+    background-color: #5aaa04;
+    color: white;
+  }
+   h1{
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+    color: rgb(0, 136, 255);
+    font-weight: bold ;
+  }
+  p{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 18px;
+     text-align: center;
+     font-weight: bold ;
+  }
+  .chaux{
+    color: rgb(251, 9, 9);
+    font-size: 16px;
+  }
+  .froid{
+    color: rgb(7, 15, 249);
+    font-size: 16px;
+  }
